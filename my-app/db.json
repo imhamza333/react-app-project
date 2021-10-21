@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change network card on server 006",
+      "attention": true,
+      "tech": "Alex",
+      "date": "2020-08-12T21:07:52.367Z"
+    },
+    {
+      "id": 2,
+      "message": "Complete the project 007",
+      "attention": false,
+      "tech": "Dr Wolf",
+      "date": "2020-08-12T21:08:02.195Z"
+    },
+    {
+      "message": "fix the drive on workstation 033",
+      "attention": true,
+      "tech": "Alex",
+      "date": "2020-08-11T15:02:58.528Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Alex",
+      "lastName": "Turner"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Wood"
+    },
+    {
+      "id": 3,
+      "firstName": "Dr",
+      "lastName": "Wolf"
+    }
+  ]
+}
